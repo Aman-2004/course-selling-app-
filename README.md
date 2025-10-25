@@ -1,7 +1,7 @@
 ##  Create a course selling app
     - Step 1-Initialize a git and new Node.js project
     - Step 2-Add Express, jsonwebtoken, mongoose to it as a dependency
-    - Step 3-Create index.js
+    - Step 3-Create index.js and add .gitignore and nodemon as dev-dependencies
     - Step 4-Add route skeleton for user login, signup, purchase a course, sees all courses, sees the purchased courses course
     - Step 5-Add routes for admin login, admin signup, create a course, delete a course, add course content.
     - Step 6-Define the schema for User, Admin, Course, Purchase
